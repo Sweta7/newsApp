@@ -12,7 +12,7 @@ import CarouselTop from "../components/CarouselTop";
 // import Business from './Business'
 // import Sports from './Sports'
 // import Entertainment from './Entertainment'
-// import Jumbotron from 'react-bootstrap/Jumbotron'
+ import Jumbotron from 'react-bootstrap/Jumbotron'
 
 class App extends Component {
   constructor() {
